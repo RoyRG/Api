@@ -1,0 +1,17 @@
+C:\Users\QUALITY\Desktop\Heroes2.0\Negocio\obj\Debug\netcoreapp3.1\API.NEGOCIO.csproj.AssemblyReference.cache
+C:\Users\QUALITY\Desktop\Heroes2.0\Negocio\obj\Debug\netcoreapp3.1\API.NEGOCIO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\QUALITY\Desktop\Heroes2.0\Negocio\obj\Debug\netcoreapp3.1\API.NEGOCIO.AssemblyInfoInputs.cache
+C:\Users\QUALITY\Desktop\Heroes2.0\Negocio\obj\Debug\netcoreapp3.1\API.NEGOCIO.AssemblyInfo.cs
+C:\Users\QUALITY\Desktop\Heroes2.0\Negocio\obj\Debug\netcoreapp3.1\API.NEGOCIO.csproj.CoreCompileInputs.cache
+C:\Users\QUALITY\Desktop\Heroes2.0\Negocio\bin\Debug\netcoreapp3.1\API.NEGOCIO.deps.json
+C:\Users\QUALITY\Desktop\Heroes2.0\Negocio\bin\Debug\netcoreapp3.1\API.NEGOCIO.dll
+C:\Users\QUALITY\Desktop\Heroes2.0\Negocio\bin\Debug\netcoreapp3.1\API.NEGOCIO.pdb
+C:\Users\QUALITY\Desktop\Heroes2.0\Negocio\bin\Debug\netcoreapp3.1\API.COMUN.dll
+C:\Users\QUALITY\Desktop\Heroes2.0\Negocio\bin\Debug\netcoreapp3.1\API.DATA.dll
+C:\Users\QUALITY\Desktop\Heroes2.0\Negocio\bin\Debug\netcoreapp3.1\API.ENTIDADES.dll
+C:\Users\QUALITY\Desktop\Heroes2.0\Negocio\bin\Debug\netcoreapp3.1\API.COMUN.pdb
+C:\Users\QUALITY\Desktop\Heroes2.0\Negocio\bin\Debug\netcoreapp3.1\API.DATA.pdb
+C:\Users\QUALITY\Desktop\Heroes2.0\Negocio\bin\Debug\netcoreapp3.1\API.ENTIDADES.pdb
+C:\Users\QUALITY\Desktop\Heroes2.0\Negocio\obj\Debug\netcoreapp3.1\API.NEGOCIO.csproj.CopyComplete
+C:\Users\QUALITY\Desktop\Heroes2.0\Negocio\obj\Debug\netcoreapp3.1\API.NEGOCIO.dll
+C:\Users\QUALITY\Desktop\Heroes2.0\Negocio\obj\Debug\netcoreapp3.1\API.NEGOCIO.pdb

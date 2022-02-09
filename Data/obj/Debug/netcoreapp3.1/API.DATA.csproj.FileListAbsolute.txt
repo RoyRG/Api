@@ -1,0 +1,15 @@
+C:\Users\QUALITY\Desktop\Heroes2.0\Data\bin\Debug\netcoreapp3.1\API.DATA.deps.json
+C:\Users\QUALITY\Desktop\Heroes2.0\Data\bin\Debug\netcoreapp3.1\API.DATA.dll
+C:\Users\QUALITY\Desktop\Heroes2.0\Data\bin\Debug\netcoreapp3.1\API.DATA.pdb
+C:\Users\QUALITY\Desktop\Heroes2.0\Data\bin\Debug\netcoreapp3.1\API.COMUN.dll
+C:\Users\QUALITY\Desktop\Heroes2.0\Data\bin\Debug\netcoreapp3.1\API.ENTIDADES.dll
+C:\Users\QUALITY\Desktop\Heroes2.0\Data\bin\Debug\netcoreapp3.1\API.COMUN.pdb
+C:\Users\QUALITY\Desktop\Heroes2.0\Data\bin\Debug\netcoreapp3.1\API.ENTIDADES.pdb
+C:\Users\QUALITY\Desktop\Heroes2.0\Data\obj\Debug\netcoreapp3.1\API.DATA.csproj.AssemblyReference.cache
+C:\Users\QUALITY\Desktop\Heroes2.0\Data\obj\Debug\netcoreapp3.1\API.DATA.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\QUALITY\Desktop\Heroes2.0\Data\obj\Debug\netcoreapp3.1\API.DATA.AssemblyInfoInputs.cache
+C:\Users\QUALITY\Desktop\Heroes2.0\Data\obj\Debug\netcoreapp3.1\API.DATA.AssemblyInfo.cs
+C:\Users\QUALITY\Desktop\Heroes2.0\Data\obj\Debug\netcoreapp3.1\API.DATA.csproj.CoreCompileInputs.cache
+C:\Users\QUALITY\Desktop\Heroes2.0\Data\obj\Debug\netcoreapp3.1\API.DATA.csproj.CopyComplete
+C:\Users\QUALITY\Desktop\Heroes2.0\Data\obj\Debug\netcoreapp3.1\API.DATA.dll
+C:\Users\QUALITY\Desktop\Heroes2.0\Data\obj\Debug\netcoreapp3.1\API.DATA.pdb
